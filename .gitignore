@@ -1,0 +1,7 @@
+.venv
+.build
+.vscode
+__pycache__/
+.DS_Store
+data/
+notebook/saved_models/
