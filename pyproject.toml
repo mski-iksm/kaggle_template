@@ -21,6 +21,7 @@ hydra = "^2.5"
 torch = "^1.7.1"
 pytest = "^6.2.2"
 kaggle = "^1.5.12"
+jupyter = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 yapf = "^0.30.0"
